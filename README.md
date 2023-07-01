@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, the name is wengel</h1>
+<h1 align="center">Hi there 👋</h1>
 <h3 align="center">Majored in CS 👨‍💻</h3>
 
 - 💬 You can always ask me about **Web related questions.**
