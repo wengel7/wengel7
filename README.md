@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Flutter....**
 
-- 📫 How to reach me **tesemawengel3@gmail.com**
+- 📫 How to reach me **@WT1712**
 
 - 👻 Fun fact I **used to hate fish because they smell fishy.**
 
