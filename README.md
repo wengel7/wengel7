@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 <h3 align="center">Majored in CS 👨‍💻</h3>
 
-- 🌱 I’m currently learning **React, Flutter....**
+- 🌱 I’m currently learning **React....**
 
 - 📫 How to reach me **@WT1712** at telegram.
 
